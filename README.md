@@ -1,5 +1,15 @@
 This LaTeX code generates a figure using the `pgfplots` package for creating a bar chart with multiple bars per data point, each representing different metrics. The figure is set to span the entire width of the page (`figure*` environment).
 
+### Description:
+- **Packages**: Various packages are imported (`graphicx`, `color`, `textcomp`, `amsmath`, `amsfonts`, `algorithmic`, `pgfplots`, `pgfplotstable`) for graphics, colors, math symbols, algorithms, and plotting.
+- **Plot**: A bar chart (`ybar`) is created using `pgfplots`. Three sets of data (`Computational Complexity`, `Power Efficiency`, `Spectral Efficiency`) are plotted against symbolic x coordinates representing different works (`CAP`, `PAPM`, `VPPM`, `DPPM`, `M-PPM`, `M-PAM`, `PWM`, `Proposed`).
+- **Legend**: Custom legend formatting is applied with patterns and specific styles (`legend image code`, `legend style`).
+- **Captions and Labels**: The figure has a caption (`Comparative analysis with other works`) and a label (`fig_comp`) for reference.
+
+This code generates a detailed and formatted bar chart suitable for academic papers or technical reports. Adjustments to styles and labels can be made as per specific requirements.
+
+![image](https://github.com/zamaex96/Color-Gradient-Bar-Plot/assets/172457177/80a72632-c564-49ae-9db7-6472904852d4)
+
 ### Summary of LaTeX Code:
 
 ```latex
@@ -95,12 +105,4 @@ This LaTeX code generates a figure using the `pgfplots` package for creating a b
 \end{figure*}
 \end{document}
 
-### Description:
-- **Packages**: Various packages are imported (`graphicx`, `color`, `textcomp`, `amsmath`, `amsfonts`, `algorithmic`, `pgfplots`, `pgfplotstable`) for graphics, colors, math symbols, algorithms, and plotting.
-- **Plot**: A bar chart (`ybar`) is created using `pgfplots`. Three sets of data (`Computational Complexity`, `Power Efficiency`, `Spectral Efficiency`) are plotted against symbolic x coordinates representing different works (`CAP`, `PAPM`, `VPPM`, `DPPM`, `M-PPM`, `M-PAM`, `PWM`, `Proposed`).
-- **Legend**: Custom legend formatting is applied with patterns and specific styles (`legend image code`, `legend style`).
-- **Captions and Labels**: The figure has a caption (`Comparative analysis with other works`) and a label (`fig_comp`) for reference.
 
-This code generates a detailed and formatted bar chart suitable for academic papers or technical reports. Adjustments to styles and labels can be made as per specific requirements.
-
-![image](https://github.com/zamaex96/Color-Gradient-Bar-Plot/assets/172457177/80a72632-c564-49ae-9db7-6472904852d4)
