@@ -105,4 +105,9 @@ This code generates a detailed and formatted bar chart suitable for academic pap
 \end{figure*}
 \end{document}
 
-
+<div align="center">
+  <a href="https://maazsalman.org/">
+    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="gh" />
+  </a>
+  <p> Explore More! 🚀</p>
+</div>
