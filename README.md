@@ -104,6 +104,7 @@ This code generates a detailed and formatted bar chart suitable for academic pap
 \label{fig_comp}
 \end{figure*}
 \end{document}
+```
 
 <div align="center">
   <a href="https://maazsalman.org/">
