@@ -108,7 +108,7 @@ This code generates a detailed and formatted bar chart suitable for academic pap
 
 <div align="center">
   <a href="https://maazsalman.org/">
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="gh" />
+    <img width="70" src="click-svgrepo-com.svg" alt="gh" />
   </a>
   <p> Explore More! 🚀</p>
 </div>
